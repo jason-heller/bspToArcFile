@@ -1,5 +1,5 @@
 # bspToArcFile
-Convert Valve .BSP files into .ARC files, which can be used by JGameEngine
+Converts Valve .BSP files into .ARC files, which can be used by JGameEngine
 
 <h2>Referenced Libraries/Projects</h2>
 <ul>
